@@ -362,7 +362,6 @@
 - [kevinboone/epub2txt2](https://github.com/kevinboone/epub2txt2) - A simple command-line utility for Linux, for extracting text from EPUB documents.
 - [ovn-org/ovn](https://github.com/ovn-org/ovn) - Open Virtual Network
 - [mann1x/ryzen_monitor_ng](https://github.com/mann1x/ryzen_monitor_ng) - Swiss army knife tool for AMD CPUs with monitor and control and more
-- [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt
 - [ImpulseAdventure/GUIslice](https://github.com/ImpulseAdventure/GUIslice) - GUIslice drag & drop embedded GUI in C for touchscreen TFT on Arduino, Raspberry Pi, ARM, ESP8266 / ESP32 / M5stack using Adafruit-GFX / TFT_eSPI / UTFT / SDL
 - [gamelinux/passivedns](https://github.com/gamelinux/passivedns) - A network sniffer that logs all DNS server replies for use in a passive DNS setup
@@ -6067,7 +6066,7 @@
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 - [ali-kh7/deep-research-mcp](https://github.com/ali-kh7/deep-research-mcp) - A Model Context Protocol (MCP) compliant server designed for comprehensive web research. It uses Tavily's Search and Crawl APIs to gather detailed information on a given topic, then structures this da
 - [iina/plugin-userscript](https://github.com/iina/plugin-userscript) - 
-- [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐零门槛的3D桌面伴侣！支持接入QQ、B站直播、RAG、联网、长期记忆、 酒馆角色卡、代码沙盒、表情包、浏览器控制、Dify、 Home Assistant、MCP、A2A、Comfyui、数字人口播等功能！⭐ A 3D desktop companion with zero barriers! Supports integration with QQ, Bilibili live, RAG, w
+- [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐零门槛的3D桌面伴侣！支持接入QQ、B站直播、RAG、联网、长期记忆、 酒馆角色卡、claude code 、浏览器控制、Dify、 Home Assistant、MCP、A2A、Comfyui、数字人口播等功能！⭐ A 3D desktop companion with zero barriers! Supports integration with QQ, Bilibili live, RA
 - [yincongcyincong/VictoriaMetrics-mcp-server](https://github.com/yincongcyincong/VictoriaMetrics-mcp-server) - MCP Server for the VictoriaMetrics.
 - [makafeli/n8n-workflow-builder](https://github.com/makafeli/n8n-workflow-builder) - AI assistant integration for n8n workflow automation through Model Context Protocol (MCP). Connect Claude Desktop, ChatGPT, and other AI assistants to n8n for natural language workflow management.
 - [supercorp-ai/superargs](https://github.com/supercorp-ai/superargs) - Provide AI MCP server args during runtime.
@@ -7189,7 +7188,7 @@
 - [antongunov/favicongrabber.com](https://github.com/antongunov/favicongrabber.com) - Grabbing favicons from any domain
 - [xyteam/AutoBDD](https://github.com/xyteam/AutoBDD) - End-to-End BDD Automation Framework
 - [hoadv/electron-base-with-robotjs](https://github.com/hoadv/electron-base-with-robotjs) - The electron base project setup that already set up robotjs package (https://github.com/octalmage/robotjs) and handled some events (like preventing close application, moving to Tray...)
-- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic counters and rate limiting tools. Limit resource access at any scale.
+- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic and non-atomic counters and rate limiting tools. Limit resource access at any scale.
 - [ddcc/d3-waterfall](https://github.com/ddcc/d3-waterfall) - 
 - [yzane/vscode-markdown-pdf](https://github.com/yzane/vscode-markdown-pdf) - Markdown converter for Visual Studio Code
 - [DBa2016/power-usage-card-regex](https://github.com/DBa2016/power-usage-card-regex) - Lovelace pie chart card that displays current energy usage
@@ -8718,6 +8717,7 @@
 
 ## Lua 
 
+- [Hammerspoon/Spoons](https://github.com/Hammerspoon/Spoons) - The official repository of Spoon plugins
 - [Zren/mpv-osc-tethys](https://github.com/Zren/mpv-osc-tethys) - An OSC UI replacement for MPV with icons from the bomi video player. Also contains thumbnail preview and a picture-in-picture button.
 - [po5/thumbfast](https://github.com/po5/thumbfast) - High-performance on-the-fly thumbnailer script for mpv
 - [phillbush/mpv-concat](https://github.com/phillbush/mpv-concat) - mpv script to interactively create a input file for ffmpeg -f concat
@@ -9092,6 +9092,7 @@
 
 ## Others 
 
+- [abubakarsiddik31/claude-skills-collection](https://github.com/abubakarsiddik31/claude-skills-collection) - A curated collection of official and community-built Claude Skills – extend Anthropic's Claude with powerful, modular capabilities for productivity, creativity, coding, and more.
 - [trycua/acu](https://github.com/trycua/acu) - A curated list of resources about AI agents for Computer Use, including research papers, projects, frameworks, and tools.
 - [daimaxiuligong/VideoCutter](https://github.com/daimaxiuligong/VideoCutter) - VideoCutter 作为专业多媒体处理工具，集成视频、音频、图像处理模块，依托先进 AI 技术与强大引擎，深度支持 MCP 智能体协议，让 AI 智能体借自然语言调用功能，以 SSE 和 HTTP Streamable 双模式，为短视频等内容创作提供一站式、智能化编辑解决方案。
 - [tim-sha256/claude-in-docker](https://github.com/tim-sha256/claude-in-docker) - empty project for a quick setup of Claude in Docker+VSCode
@@ -10681,6 +10682,7 @@
 - [bookkojot/mp4fixer](https://github.com/bookkojot/mp4fixer) - Recover damaged/unfinished mp4 files with h264 video
 - [joz-k/ios_backup_extractor](https://github.com/joz-k/ios_backup_extractor) - iOS backup media extraction tool (photos, videos)
 - [Code-Exec/Proxmox_NAT_Patch](https://github.com/Code-Exec/Proxmox_NAT_Patch) - Proxmox patch to create firewall NAT rules for web UI
+- [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
 - [aduitsis/prometheus-discoverer](https://github.com/aduitsis/prometheus-discoverer) - prometheus port scan discoverer
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [Drallas/Virtio-fs-Hookscript](https://github.com/Drallas/Virtio-fs-Hookscript) - Hookscript to create Virtio-fs mounts to share a directory tree between a Proxmox host and VMs
@@ -11505,7 +11507,7 @@
 - [video-db/Director](https://github.com/video-db/Director) - AI video agents framework for next-gen video interactions and workflows.
 - [hkchengrex/Tracking-Anything-with-DEVA](https://github.com/hkchengrex/Tracking-Anything-with-DEVA) - [ICCV 2023] Tracking Anything with Decoupled Video Segmentation
 - [ClaudiaCuttano/SAMWISE](https://github.com/ClaudiaCuttano/SAMWISE) - [CVPR 2025 Highlight] Official repository for the paper: "SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation"
-- [bytedance/Sa2VA](https://github.com/bytedance/Sa2VA) - 🔥 Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos
+- [bytedance/Sa2VA](https://github.com/bytedance/Sa2VA) - Official Repo For "Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos"
 - [latent-variable/r1_reasoning_effort](https://github.com/latent-variable/r1_reasoning_effort) - Forces DeepSeek R1 models to engage in extended reasoning by intercepting early termination tokens.
 - [roryeckel/wyoming_openai](https://github.com/roryeckel/wyoming_openai) - OpenAI-Compatible Proxy Middleware for the Wyoming Protocol
 - [deepset-ai/hayhooks](https://github.com/deepset-ai/hayhooks) - Easily deploy Haystack pipelines as REST APIs and MCP Tools.
@@ -11554,7 +11556,7 @@
 - [thiswillbeyourgithub/openwebui_custom_pipes_filters](https://github.com/thiswillbeyourgithub/openwebui_custom_pipes_filters) - Personnal collection of pipes and filters I use for open-webui
 - [datastax/astra-assistants-api](https://github.com/datastax/astra-assistants-api) - Drop in replacement for the OpenAI Assistants API
 - [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and Ca
-- [lukehinds/deepfabric](https://github.com/lukehinds/deepfabric) - Create large-scale synthetic training data for model distillation and evaluation
+- [lukehinds/deepfabric](https://github.com/lukehinds/deepfabric) - Create large-scale synthetic training data for model distillation and fine-tuning of LLMs
 - [agentstack-ai/AgentStack](https://github.com/agentstack-ai/AgentStack) - The fastest way to build robust AI agents
 - [robert-mcdermott/EyerisAI](https://github.com/robert-mcdermott/EyerisAI) - AI powered camera and event detection system
 - [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - LLM abstractions that aren't obstructions
@@ -13147,7 +13149,7 @@
 - [dl3jop/PARST](https://github.com/dl3jop/PARST) - Portable AmateurRadio Satellite Tracker
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [uselotus/lotus](https://github.com/uselotus/lotus) - Open Source Pricing & Packaging Infrastructure
-- [bram2w/baserow](https://github.com/bram2w/baserow) - The official repository is hosted on https://gitlab.com/bramw/baserow. Baserow is an open source no-code database tool and Airtable alternative.
+- [baserow/baserow](https://github.com/baserow/baserow) - Open-source no-code platform and the best alternative to Airtable. Build databases, applications, automations, and dashboards — all in one secure, self-hostable environment. Empower your team to creat
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
 - [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Build, personalize and control your own LLMs. From data pre-processing to fine-tuning, xTuring provides an easy way to personalize open-source LLMs. Join our discord community: https://discord.gg/TgHX
 - [volitank/nala](https://github.com/volitank/nala) - Nala is a front-end for libapt-pkg.
