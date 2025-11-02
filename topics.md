@@ -386,7 +386,7 @@
 - [milisp/codexia](https://github.com/milisp/codexia) - A powerful GUI/IDE and Toolkit for Codex CLI. Fork chat + FileTree + prompt notepad, Codex community and more
 - [tjx666/vscode-mcp](https://github.com/tjx666/vscode-mcp) - MCP server for Claude Code/VSCode/Cursor/Windsurf to use editor self functionality. ⚡ Get real-time LSP diagnostics, type information, and code navigation for AI coding agents without waiting for slow
 - [langwatch/langwatch](https://github.com/langwatch/langwatch) - The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Blazing fast AI pair programming for production-grade code. Select context as you go for pro accuracy and game-changing speed.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Blazing fast AI pair programming for production-grade code. Select context as you go for game-changing accuracy and speed.
 - [tcpiplab/Instability](https://github.com/tcpiplab/Instability) - A network diagnostic chatbot that also works offline. It has over 50 built-in tools to provide troubleshooting and analysis of local and remote networks. Chat interactively from the command line or in
 - [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - ​AI-Powered open-source deepwiki generator​ built with Rust – Transform your codebase into professional architecture documentation in minutes
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
@@ -4250,6 +4250,7 @@
 - [Zain-ul-din/whatsapp-ai-bot](https://github.com/Zain-ul-din/whatsapp-ai-bot) - This is a WhatsApp AI bot that uses various AI models, including Deepseek, GPT, DALL-E, Gemini and StabilityAI, to generate responses to user input.
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 - [haseeb-heaven/code-interpreter](https://github.com/haseeb-heaven/code-interpreter) - An innovative open-source Code Interpreter with (GPT,Gemini,Claude,LLaMa) models.
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports Ch
 - [kwaroran/RisuAI](https://github.com/kwaroran/RisuAI) - Make your own story. User-friendly software for LLM roleplaying
 - [ognistik/kiki-ai-workflow](https://github.com/ognistik/kiki-ai-workflow) - AI-Powered Chat & Text Tools for Alfred
@@ -4328,7 +4329,7 @@
 - [RayBytes/ChatMock](https://github.com/RayBytes/ChatMock) - Access OpenAI models programmatically through your ChatGPT subscription.
 - [milisp/codexia](https://github.com/milisp/codexia) - A powerful GUI/IDE and Toolkit for Codex CLI. Fork chat + FileTree + prompt notepad, Codex community and more
 - [BinaryBeastMaster/chat-relay](https://github.com/BinaryBeastMaster/chat-relay) - Chat Relay is a system that allows Cline/RooCode to communicate with web-based AI chat interfaces (like Gemini, AI Studio, ChatGPT, and Claude) through an OpenAI-compatible API. This enables using mod
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Blazing fast AI pair programming for production-grade code. Select context as you go for pro accuracy and game-changing speed.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Blazing fast AI pair programming for production-grade code. Select context as you go for game-changing accuracy and speed.
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw) - Shell and coding agent on claude desktop app
 - [billmei/every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT, Claude, and other LLMs
 - [Cicatriiz/pophive-mcp-server](https://github.com/Cicatriiz/pophive-mcp-server) - *Featured on Claude!* MCP server for accessing near real-time health data from Yale's PopHIVE platform, as well as additional HHS/CDC data
@@ -4959,7 +4960,7 @@
 - [Tanq16/ai-context](https://github.com/Tanq16/ai-context) - CLI tool to produce MD context files from many sources, to help interact with LLMs (ChatGPT, Llama3, Claude, etc.).
 - [codelion/dynamic-shell-server](https://github.com/codelion/dynamic-shell-server) - Dynamic Shell Command MCP Server
 - [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools) - Collection of practical productivity tools for Claude Code
-- [kbwo/ccmanager](https://github.com/kbwo/ccmanager) - Coding Agent Session Manager for Claude Code / Gemini CLI / Codex CLI / Cursor Agent / Copilot CLI
+- [kbwo/ccmanager](https://github.com/kbwo/ccmanager) - Coding Agent Session Manager for Claude Code / Gemini CLI / Codex CLI / Cursor Agent / Copilot CLI / Cline CLI
 - [eckardt/cchistory](https://github.com/eckardt/cchistory) - Like the shell history command but for your Claude Code sessions.
 - [joryeugene/calmhive-cli](https://github.com/joryeugene/calmhive-cli) - &gt; Transform Claude Code CLI into your AI development companion with voice control, background processing, and intelligent automation.
 - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
@@ -12468,7 +12469,6 @@
 - [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - LLM abstractions that aren't obstructions
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh) - An OOB interaction gathering server and client library
-- [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
 - [dotnet/command-line-api](https://github.com/dotnet/command-line-api) - Command line parsing, invocation, and rendering of terminal output.
 - [AOSSIE-Org/Resonate](https://github.com/AOSSIE-Org/Resonate) - Clubhouse, but Open Source. A social voice platform.
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -12970,7 +12970,6 @@
 - [Jean85/pretty-package-versions](https://github.com/Jean85/pretty-package-versions) - A small, independent wrapper to get pretty versions strings
 - [gnuradio/gr-bokehgui](https://github.com/gnuradio/gr-bokehgui) - Web based display for GNU Radio applications
 - [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio – the Free and Open Software Radio Ecosystem
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) - Dynamically provision Stateful Persistent Node-Local Volumes & Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
@@ -17399,7 +17398,7 @@
 - [h2oai/h2o-wizardlm](https://github.com/h2oai/h2o-wizardlm) - Open-Source Implementation of WizardLM to turn documents into Q:A pairs for LLM fine-tuning
 - [matebenyovszky/healing-agent](https://github.com/matebenyovszky/healing-agent) - AI powered automatic software healing agent
 - [myshell-ai/AIlice](https://github.com/myshell-ai/AIlice) - AIlice is a fully autonomous, general-purpose AI agent.
-- [codelion/optillm](https://github.com/codelion/optillm) - Optimizing inference proxy for LLMs
+- [algorithmicsuperintelligence/optillm](https://github.com/algorithmicsuperintelligence/optillm) - Optimizing inference proxy for LLMs
 - [modelscope/FunClip](https://github.com/modelscope/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
 - [EmbeddedLLM/JamAIBase](https://github.com/EmbeddedLLM/JamAIBase) - The collaborative spreadsheet for AI. Chain cells into powerful pipelines, experiment with prompts and models, and evaluate LLM responses in real-time. Work together seamlessly to build and iterate on
 - [louisfb01/start-llms](https://github.com/louisfb01/start-llms) - A complete guide to start and improve your LLM skills in 2025 with little background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
@@ -21442,7 +21441,7 @@
 - [enoch3712/ExtractThinker](https://github.com/enoch3712/ExtractThinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.
 - [matebenyovszky/healing-agent](https://github.com/matebenyovszky/healing-agent) - AI powered automatic software healing agent
 - [emcf/thepipe](https://github.com/emcf/thepipe) - Get clean data from tricky documents, powered by vision-language models ⚡
-- [codelion/optillm](https://github.com/codelion/optillm) - Optimizing inference proxy for LLMs
+- [algorithmicsuperintelligence/optillm](https://github.com/algorithmicsuperintelligence/optillm) - Optimizing inference proxy for LLMs
 - [Purfview/whisper-standalone-win](https://github.com/Purfview/whisper-standalone-win) - Whisper & Faster-Whisper standalone executables for those who don't want to bother with Python.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [dsymbol/decipher](https://github.com/dsymbol/decipher) - Effortlessly add AI-generated transcription subtitles to your videos
@@ -21931,6 +21930,9 @@
 
 ## others 
 
+- [gemini-cli-extensions/nanobanana](https://github.com/gemini-cli-extensions/nanobanana) - 
+- [maragudk/skills](https://github.com/maragudk/skills) - Skills for AI agents.
+- [Haleclipse/CCometixLine](https://github.com/Haleclipse/CCometixLine) - Claude Code statusline tool written in Rust
 - [jvanmelckebeke/litellm-config-generator](https://github.com/jvanmelckebeke/litellm-config-generator) - CDK-like TypeScript library for generating LiteLLM proxy configurations with fluent builder pattern
 - [mikeleppane/envx](https://github.com/mikeleppane/envx) - A powerful and secure environment variable manager for developers, featuring an intuitive Terminal User Interface (TUI) and comprehensive command-line interface.
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI tool built with Rust.
@@ -22334,7 +22336,7 @@
 - [jina-ai/meta-prompt](https://github.com/jina-ai/meta-prompt) - For LLMs to better code with Jina API
 - [trancong12102/jina-http-proxy](https://github.com/trancong12102/jina-http-proxy) - 
 - [purarue/reminder-sink](https://github.com/purarue/reminder-sink) - a unobtrusive, scriptable reminder/habit/todo task-runner
-- [hesreallyhim/awesome-claude-code-agents](https://github.com/hesreallyhim/awesome-claude-code-agents) - A curated list of awesome Claude Code Sub-Agents
+- [hesreallyhim/a-list-of-claude-code-agents](https://github.com/hesreallyhim/a-list-of-claude-code-agents) - A list of Claude Code Sub-Agents submitted by the community.
 - [speed47/dvdisaster](https://github.com/speed47/dvdisaster) - A tool providing additional ECC protection for optical media (unofficial version)
 - [igrigorik/videospeed](https://github.com/igrigorik/videospeed) - HTML5 video speed controller (for Google Chrome)
 - [alorman/KrakenSDR-Notes](https://github.com/alorman/KrakenSDR-Notes) - Notes on Using the Kraken SDR for ADS-B/AIS/LiveATC
@@ -22485,7 +22487,7 @@
 - [badlogic/claude-gui](https://github.com/badlogic/claude-gui) - A wrapper around Claude Code that exposes it via a bi-directional websocket on top of which one can build non-TUI interfaces
 - [abshkbh/arrakis](https://github.com/abshkbh/arrakis) - A fully customizable and self-hosted sandboxing solution for AI agent code execution and computer use. It features out-of-the-box support for backtracking, a simple REST API and Python SDK, automatic 
 - [shitan198u/immich-go-gui](https://github.com/shitan198u/immich-go-gui) - GUI for immich-go
-- [codelion/openevolve](https://github.com/codelion/openevolve) - Open-source implementation of AlphaEvolve
+- [algorithmicsuperintelligence/openevolve](https://github.com/algorithmicsuperintelligence/openevolve) - Open-source implementation of AlphaEvolve
 - [disler/claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) - Real-time monitoring for Claude Code agents through simple hook event tracking.
 - [heyajohnny/cryptoinfo](https://github.com/heyajohnny/cryptoinfo) - Provides Home Assistant sensors for all cryptocurrencies supported by CoinGecko
 - [rizethereum/claude-code-requirements-builder](https://github.com/rizethereum/claude-code-requirements-builder) - 
@@ -25504,7 +25506,7 @@
 - [pcarrier/afuse](https://github.com/pcarrier/afuse) - An automounter implemented with FUSE
 - [mifi/VideoGrader](https://github.com/mifi/VideoGrader) - 
 - [afrum/my_ffmpeg](https://github.com/afrum/my_ffmpeg) - A bunch of ffmpeg commands that I use
-- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [mpatfield/homebridge-dummy](https://github.com/mpatfield/homebridge-dummy) - Create Homebridge accessories to help with automation and control — scheduling, delays, sensors, commands, webhooks, and more
 - [simonw/datasette-remote-metadata](https://github.com/simonw/datasette-remote-metadata) - Periodically refresh Datasette metadata from a remote URL
 - [chrisgrieser/pdf-annotation-extractor-alfred](https://github.com/chrisgrieser/pdf-annotation-extractor-alfred) - Alfred Workflow to extract annotations from PDF files.
@@ -26628,7 +26630,7 @@
 - [raintank/dur](https://github.com/raintank/dur) - 
 - [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 - [hoehermann/purple-signal](https://github.com/hoehermann/purple-signal) - Pidgin/libpurple plugin for signal using libsignal-service-java (and parts of signal-cli).
-- [hoehermann/purple-gowhatsapp](https://github.com/hoehermann/purple-gowhatsapp) - Pidgin/libpurple plug-in for WhatsApp Web.
+- [hoehermann/purple-gowhatsapp](https://github.com/hoehermann/purple-gowhatsapp) - Pidgin/libpurple plug-in for WhatsApp.
 - [dylex/slack-libpurple](https://github.com/dylex/slack-libpurple) - Slack module for libpurple
 - [gkdr/lurch](https://github.com/gkdr/lurch) - XEP-0384: OMEMO Encryption for libpurple.
 - [hoehermann/purple-signald](https://github.com/hoehermann/purple-signald) - Pidgin libpurple bridge to signald.
@@ -28132,6 +28134,7 @@
 - [luigifcruz/weatherdump](https://github.com/luigifcruz/weatherdump) - Multi-platform toolkit for weather satellites reception and decoding. Available for Linux, macOS, Windows and RaspberryPi.
 - [sitch-io/sensor](https://github.com/sitch-io/sensor) - Sensor software
 - [actions/download-artifact](https://github.com/actions/download-artifact) - 
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [arbal/arbal.github.io](https://github.com/arbal/arbal.github.io) - Source for https://arbal.github.io
 - [yo1frenchtoast/hermod-api](https://github.com/yo1frenchtoast/hermod-api) - HERMOD : Monitoring notification API for RouterOS
 - [olkovin/ros_wanhealththing](https://github.com/olkovin/ros_wanhealththing) - RouterOS advanced WAN health monitoring
